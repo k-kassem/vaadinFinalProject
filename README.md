@@ -22,12 +22,3 @@ or directly running Application class from your IDE.
 Open http://localhost:8080/ in browser and login:
 - `user`:`userPass`
 - `admin`:`adminPass`
-
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
