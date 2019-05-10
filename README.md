@@ -31,7 +31,3 @@ Open http://localhost:8080/ in browser and login:
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-## Credits
-
-A heartfelt thank you to [@jonasfrantz](https://github.com/jonasfrantz) for the [jonasfrantz/vaadin10-spring-security](https://github.com/jonasfrantz/vaadin10-spring-security) project.
